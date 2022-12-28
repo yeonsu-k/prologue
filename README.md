@@ -74,8 +74,8 @@ npm start
 - [BE] 권유나 (yunaghgh@gmail.com)
 - [BE] 김태훈 (com151925@gmail.com)
 - [FE] 강정현 (jhkang9820@gmail.com)
-- [FE] 김주연 (dustn4325@gmail.com)
-- [FE] 김연수 (jyeon3930@gmail.com)
+- [FE] 김연수 (dustn4325@gmail.com)
+- [FE] 김주연 (jyeon3930@gmail.com)
 
 # 아키텍처
 
